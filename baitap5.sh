@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# 1. Hello <tên người đăng nhập>
+# 1. Hello <tê
 
